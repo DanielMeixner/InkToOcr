@@ -1,0 +1,2 @@
+C:\Users\danmeix\Source\Repos\DmxDemos\UWP\OCRCutter\Dmx.Windows.MPC.InkToOcr\Dmx.Win.MPC.InkToOcr.csproj;x86
+C:\Users\danmeix\Source\Repos\DmxDemos\UWP\OCRCutter\Dmx.Windows.MPC.OcrByMarkSample\Dmx.Win.MPC.Samples.OcrByMarkSample.csproj;x86
