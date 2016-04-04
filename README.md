@@ -21,7 +21,7 @@ Please: USE THIS CODE as inspiration for your own project. It's free! :-) As alw
 1. When using offline mode results may vary in quality. 
 
 # This is how you work with it:
-1. ~~Download the nuget package (here: https://www.nuget.org/packages/Dmx.Win.MPC.InkToOcr/0.0.1) or~~ get the source code. (Currently the nuget package doesn't work. Sorry for the inconvenience.
+1. Download the nuget package (here: https://www.nuget.org/packages/Dmx.Win.MPC.InkToOcr/ - take the latest) or get the source code. (Previously I had a bug in my NuGet package. It's fixed and is supposed to work.)
 1. Reference the library Dmx.Win.MPC.InkToOcr from your Windows 10 universal app.
 1. Add this to your MainPage.xaml where all the other namespaces are referenced
  * > xmlns:dmxocr="using:Dmx.Win.MPC.InkToOcr"
